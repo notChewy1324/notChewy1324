@@ -1,6 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-My name is Cameron Garrison. I'm currently majoring in Computer Science B.S. I plan on working on two different projects this semester. The first one will be a fun program like running sl or cmatrix in a cli. The other one will be my own custom version of a themed arch-linux distro. This will be something along the lines of a custom themed version of arch. Similar to other projetcs like AmogOS or TempleOS.
+### My name is Cameron Garrison. I'm currently majoring in Computer Science B.S. 
+
+I plan on working on two different projects this semester. 
+<ul>
+  <li>The first one will be a fun program like running sl or cmatrix in a cli.</li>
+  <li>The other one will be my own custom version of a themed Arch-Linux distro.<ul>
+      <li>The other one will be my own custom version of a themed Arch-Linux distro. This will be something along the lines of a meme OS that is built on Arch Linux. Similar to other projetcs like AmogOS or TempleOS.</li>
+    </ul>
+  </li>
+</ul>
 <!--
 **notChewy1324/notChewy1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
