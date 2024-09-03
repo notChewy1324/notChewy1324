@@ -1,12 +1,12 @@
-# Hi there 👋
+# Hi there 🚀
 
-### My name is Cameron Garrison. I'm currently majoring in Computer Science B.S. 
+### My name is Cameron Garrison. I'm currently majoring in Computer Science B.S.
 
-I plan on working on two different projects this semester. 
+#### I plan on working on two different projects this semester. 
 <ul>
   <li>The first one will be a fun program like running sl or cmatrix in a cli.</li>
   <li>The other one will be my own custom version of a themed Arch-Linux distro.<ul>
-      <li>The other one will be my own custom version of a themed Arch-Linux distro. This will be something along the lines of a meme OS that is built on Arch Linux. Similar to other projetcs like AmogOS or TempleOS.</li>
+      <li>This will be something along the lines of a meme OS that is built on Arch Linux. Similar to other projetcs like AmogOS or TempleOS.</li>
     </ul>
   </li>
 </ul>
